@@ -9,3 +9,6 @@ Video Steganography Tool User Guide. This python script allows user to hide secr
 #### 2. Run file Decoding.py: 
 - Enter Video name to Decryption: final.mp4
 - --> Result: Message Secret & Length
+
+#### Quantization table: 
+- https://www.sciencedirect.com/topics/engineering/quantization-table
